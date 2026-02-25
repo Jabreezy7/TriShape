@@ -1,0 +1,9 @@
+*.o
+triangle
+*.out
+*.exe
+*.app
+
+*.zip
+
+.DS_Store
